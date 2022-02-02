@@ -1,0 +1,14 @@
+R 1920 1080
+NO ./textures/wood.xpm
+SO ./textures/metal.xpm
+WE ./textures/brick.xpm
+EA ./textures/stone.xpm
+S ./textures/barrel.xpm
+F 128,255,128
+C 128,128,255
+
+111111
+10S011
+100001
+102001
+111111
